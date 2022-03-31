@@ -1,1 +1,1 @@
-# FE-study
+# FEstudy
